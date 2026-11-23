@@ -1,0 +1,21 @@
+Fit Doctor report — outfit 'GenGown' on body 'BodyJoined'
+Outfit: 17716 vertices; body: 2323 vertices
+Settings: side margin 0.01, min weight 0.05, clip depth 0.001
+
+SHAPE-KEY FOLLOW-THROUGH: 0 missing
+  (body has no shape keys to follow)
+
+LEFT/RIGHT WEIGHT CONTAMINATION: 0 vertices
+  on +X (left) carrying right-side weight: 0
+  on -X (right) carrying left-side weight: 0
+
+UNWEIGHTED VERTICES: 0
+
+CLIPPING (approximate): 3568 outfit vertices inside the body
+  max depth 0.165573, mean depth 0.020777
+  deepest indices: 17652, 17666, 17655, 14509, 17663, 17685, 14500, 17661, 17687, 17664
+  NOTE: nearest-surface + normal estimate — false positives are possible where
+  surfaces touch or cross at grazing angles. Confirm visually.
+
+SUMMARY: follow-through 0 missing, contamination 0, unweighted 0, clipping 3568
+Diagnosis only — Fit Doctor changes nothing on the meshes.
